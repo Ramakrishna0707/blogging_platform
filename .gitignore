@@ -1,3 +1,4 @@
+uvicorn app.main:app --reload
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
